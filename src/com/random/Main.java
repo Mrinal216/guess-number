@@ -9,6 +9,7 @@ public class Main {
         int guessnumber= (int)(Math.random()*100);
         int mynumber;
         int k=1;
+//        loop start
     do{
         System.out.println("Guess My Number (1-100)");
         System.out.println("You have "+(6-k)+" trials:");
